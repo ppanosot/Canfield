@@ -1,8 +1,8 @@
 /*********************************************************************
-  Author:        Dana Vrajitoru, IUSB, CS
+  Author:        Patarut Panosot, Dana Vrajitoru, IUSB, CS
   Class:         C243 Data Structures
   File name:     ListIterator.cc
-  Last updated:  September 3, 2019
+  Last updated:  September 11, 2019
   Description:   Definition of the list iterator class.
 **********************************************************************/
 

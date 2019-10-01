@@ -1,8 +1,8 @@
 /*********************************************************************
-  Author:        Dana Vrajitoru, IUSB, CS
+  Author:        Patarut Panosot, Dana Vrajitoru, IUSB, CS
   Class:         C243 Data Structures
   File name:     List.h
-  Last updated:  September 3, 2019
+  Last updated:  September 11, 2019
   Description:   Definition of a container class for a list. Using the
                  list iterator for browsing.
 **********************************************************************/

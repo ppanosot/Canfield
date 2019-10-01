@@ -1,8 +1,8 @@
 /*********************************************************************
-  Author:        Dana Vrajitoru, IUSB, CS
+  Author:        Patarut Panosot, Dana Vrajitoru, IUSB, CS
   Class:         C243 Data Structures
   File name:     canfield.cc
-  Last updated:  September 2019
+  Last updated:  September 18, 2019
   Description:   Implementation of the card game of Canfield using 
                  stacks and queues.
 **********************************************************************/

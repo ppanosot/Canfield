@@ -1,8 +1,8 @@
 /*********************************************************************
-  Author:        Dana Vrajitoru, IUSB, CS
+  Author:        Patarut Panosot, Dana Vrajitoru, IUSB, CS
   Class:         C243 Data Structures
-  File name:     Stack.cc
-  Last updated:  September 2019
+  File name:     Queue.cc
+  Last updated:  September 18, 2019
   Description:   Implementation of a class queue derived from a list.
 **********************************************************************/
 
